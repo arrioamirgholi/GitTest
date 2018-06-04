@@ -1,0 +1,2 @@
+# GitTest
+Terminal connectivity test
